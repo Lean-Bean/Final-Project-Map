@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Project 3/Project 3.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
